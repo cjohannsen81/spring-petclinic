@@ -1,6 +1,6 @@
 pkg_name=spring-petclinic
 pkg_origin=cjohannsen81
-pkg_version=4.3.0
+pkg_version=4.4.0
 pkg_maintainer='The Habitat Maintainers <humans@habitat.sh>'
 pkg_license=('Apache-2.0')
 pkg_source=${pkg_name}-${pkg_version}.tar.bz2
