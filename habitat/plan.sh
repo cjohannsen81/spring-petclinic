@@ -14,6 +14,7 @@ pkg_deps=(
   core/glibc
   core/tomcat8
   core/jre8
+  core/mysql
 )
 
 pkg_build_deps=(
